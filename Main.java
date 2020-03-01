@@ -9,7 +9,7 @@ public class Main {
 		
 		
 		pencere.setSize(300,300);	
-		pencere.setTitle("Eda Balaban - Yýlan Oyunu");
+		pencere.setTitle("Yilan Oyunu");
 		pencere.setLocationRelativeTo(null);
 		pencere.setResizable(false);
 		pencere.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
